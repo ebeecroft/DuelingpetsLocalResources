@@ -1,0 +1,1 @@
+Hello welcome to the Duelingpets Resources folder. This folder contains the local resources necessary for Duelingpets to get up and running. This is a sample of what the rebuilt version will look like. As of now this code is only available on my local computer.
